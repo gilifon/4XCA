@@ -148,8 +148,6 @@
     <Content Include="App\services\utilities.js" />
     <Content Include="App\viewmodels\sections.js" />
     <Content Include="App\viewmodels\shell.js" />
-    <Content Include="App\viewmodels\dashboard.js" />
-    <Content Include="App\views\dashboard.html" />
     <Content Include="App\views\sections.html" />
     <Content Include="App\views\shell.html" />
     <Content Include="assets\css\app.css" />
