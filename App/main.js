@@ -16,8 +16,8 @@ define(['durandal/system', 'durandal/app', 'durandal/viewLocator'],  function (s
     system.debug(true);
     //>>excludeEnd("build");
 
-    app.title = '4XFF';
-    app.version = "1.0";
+    app.title = '4XCA';
+    app.version = "1.1";
 
     app.configurePlugins({
         router: true,
