@@ -678,6 +678,7 @@
     <Content Include="assets\flags\flags\4x3\zm.svg" />
     <Content Include="assets\flags\flags\4x3\zw.svg" />
     <Content Include="assets\flags\flags\4x3\zz.svg" />
+    <Content Include="assets\img\4XCA_Logo.png" />
     <Content Include="assets\img\4xff.png" />
     <Content Include="assets\img\english.png" />
     <Content Include="assets\img\israel_map.jpg" />
@@ -701,6 +702,7 @@
     <Content Include="assets\img\trail_view2.jpg" />
     <Content Include="assets\img\under_contruction.jpg" />
     <Content Include="assets\img\trail_view.jpg" />
+    <Content Include="assets\img\wca_logo.gif" />
     <Content Include="assets\img\wwff_logo.png" />
     <Content Include="assets\js\linq.min.js" />
     <Content Include="assets\js\simpleCart.min.js" />
